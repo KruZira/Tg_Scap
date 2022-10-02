@@ -108,7 +108,7 @@ for user in users:
         time.sleep(5)
     except PeerFloodError as error:
         print("Getting Flood Error from telegram. Please try again after some time.")
-        print("Waiting 14 mins To Get pass ->    {error}")
+        print(f"Waiting 14 mins To Get pass ->    {error}")
         time.sleep(840)
     except UserPrivacyRestrictedError:
         print("The user's privacy settings do not allow you to do this. Skipping.")
