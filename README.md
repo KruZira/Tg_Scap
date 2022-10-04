@@ -58,6 +58,6 @@
     <img src="https://github.com/th3unkn0n/extra/blob/master/.img/yt.png" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/odili-kruz-259733202">
-    <img src="https://github.com/th3unkn0n/extra/blob/master/.img/ig.png" width="40" height="40">
+    <img src="https://github.com/KruZira/Neumorphism/raw/master/ne.png" width="40" height="40">
 </p>
 
