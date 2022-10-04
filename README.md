@@ -55,7 +55,7 @@
 </p>
 <p align="center">
   <a href="https://www.youtube.com/channel/UC78bmDO0RSEFYZPuIBoV7oQ">
-    <img src="https://www.flaticon.com/free-icon/youtube_1384060?term=youtube&related_id=1384060" width="40" height="40">
+    <img src="https://www.gannett-cdn.com/-mm-/a5076e7a43a0cec6129489319d0fb728e2cd1814/c=0-264-5184-3193/local/-/media/2017/06/19/USATODAY/USATODAY/636334597992602978-AP-YOUTUBE-76908564.JPG" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/odili-kruz-259733202">
     <img src="https://github.com/KruZira/Neumorphism/raw/master/ne.png" width="40" height="40">
